@@ -1,0 +1,29 @@
+body{
+	background-color: #1A1A1A;
+}
+
+h1{
+	font-size: 48px;
+	color: #E6E6E6;
+	font-family: inter;
+}
+
+h2{
+	font-size: 36px;
+	color: #D9D9D9;
+}
+
+h3{
+	font-size: 30px;
+	color: #CCCCCC;
+}
+
+p{
+	font-size: 22px;
+	color: #CCCCCC;
+}
+
+li{
+	font-size: 30px;
+	color: #CCCCCC;
+}
