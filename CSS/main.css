@@ -1,11 +1,17 @@
 body{
 	background-color: #1A1A1A;
+	margin: 0;
+	font-family: Arial;
+}
+
+header{
+	padding-top: 12px;
+	padding-bottom: 12px;
 }
 
 h1{
 	font-size: 48px;
 	color: #E6E6E6;
-	font-family: inter;
 }
 
 h2{
@@ -26,4 +32,8 @@ p{
 li{
 	font-size: 30px;
 	color: #CCCCCC;
+}
+
+.navItem{
+	background-color: #262626;
 }
