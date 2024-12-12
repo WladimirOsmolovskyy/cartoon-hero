@@ -66,9 +66,9 @@ li{
 	align-items: center;
 	justify-content: center;
 	flex: 1;
-	/* same as
+/*	same as
 	flex-grow: 1;
-	flex-basis: 0; */
+	flex-basis: 0;	*/
 }
 
 .hContainer{
